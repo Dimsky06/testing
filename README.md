@@ -60,7 +60,7 @@ We envision a future where digital information is truly personal and sovereign, 
 ## Contract Details
 
 - Contract Address: CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M
-  ![alt text](screenshot.png)
+  (Screenshot has been removed)
 
 ## Future Scope
 
